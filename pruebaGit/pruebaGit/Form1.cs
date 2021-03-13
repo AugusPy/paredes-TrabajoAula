@@ -15,7 +15,7 @@ namespace pruebaGit
         public Form1()
         {
             InitializeComponent();
-            // Hola
+            // Hola Profe, ya me funciona :D, no creí que me iba a costar tanto xD
         }
     }
 }
