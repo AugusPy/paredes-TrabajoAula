@@ -1,0 +1,10 @@
+E:\Fakiu\Hub\pruebaGit\pruebaGit\bin\Debug\pruebaGit.exe.config
+E:\Fakiu\Hub\pruebaGit\pruebaGit\bin\Debug\pruebaGit.exe
+E:\Fakiu\Hub\pruebaGit\pruebaGit\bin\Debug\pruebaGit.pdb
+E:\Fakiu\Hub\pruebaGit\pruebaGit\obj\Debug\pruebaGit.csprojAssemblyReference.cache
+E:\Fakiu\Hub\pruebaGit\pruebaGit\obj\Debug\pruebaGit.Form1.resources
+E:\Fakiu\Hub\pruebaGit\pruebaGit\obj\Debug\pruebaGit.Properties.Resources.resources
+E:\Fakiu\Hub\pruebaGit\pruebaGit\obj\Debug\pruebaGit.csproj.GenerateResource.cache
+E:\Fakiu\Hub\pruebaGit\pruebaGit\obj\Debug\pruebaGit.csproj.CoreCompileInputs.cache
+E:\Fakiu\Hub\pruebaGit\pruebaGit\obj\Debug\pruebaGit.exe
+E:\Fakiu\Hub\pruebaGit\pruebaGit\obj\Debug\pruebaGit.pdb
