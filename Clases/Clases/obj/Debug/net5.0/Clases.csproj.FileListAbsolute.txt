@@ -1,0 +1,16 @@
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\bin\Debug\net5.0\Clases.exe
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\bin\Debug\net5.0\Clases.deps.json
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\bin\Debug\net5.0\Clases.runtimeconfig.json
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\bin\Debug\net5.0\Clases.runtimeconfig.dev.json
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\bin\Debug\net5.0\Clases.dll
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\bin\Debug\net5.0\ref\Clases.dll
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\bin\Debug\net5.0\Clases.pdb
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\obj\Debug\net5.0\Clases.csprojAssemblyReference.cache
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\obj\Debug\net5.0\Clases.dll
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\obj\Debug\net5.0\ref\Clases.dll
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\obj\Debug\net5.0\Clases.pdb
+E:\Fakiu\Hub\paredes-trabajoAula\Clases\Clases\obj\Debug\net5.0\Clases.genruntimeconfig.cache
