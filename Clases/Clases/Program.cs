@@ -90,7 +90,7 @@ namespace ListasTipoCola1
              cola1.Imprimir();
              Console.ReadKey();*/
 
-            ImprimirLista();
+           // ImprimirLista();
 
         }
 
@@ -119,6 +119,8 @@ namespace ListasTipoCola1
                 contador++;
             }
         }
+
+
     }
 
 }
