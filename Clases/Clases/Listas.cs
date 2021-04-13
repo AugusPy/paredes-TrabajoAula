@@ -6,20 +6,22 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
+    
     public class Listas
     {
+        
         static void ImprimirLista()
         {
             string profe = "Andrea";
 
             List<string> listaAlumnos = new List<string>();
 
-            listaAlumnos.Add("Augusto");
+            listaAlumnos.Add("Augusto Paredes");
             listaAlumnos.Add("Meli");
             listaAlumnos.Add("Edgar");
             listaAlumnos.Add(profe);
 
-            Console.WriteLine(listaAlumnos[1]);
+            //Console.WriteLine(listaAlumnos[1]);
 
             foreach (string alumno in listaAlumnos)     //foreach significa para cada elemento
             {
@@ -32,6 +34,12 @@ namespace Clases
                 Console.WriteLine("Elemento #{" + contador + "}-->" + alumno);
                 contador++;
             }
+
+
         }
+
+        
     }
+
+    
 }

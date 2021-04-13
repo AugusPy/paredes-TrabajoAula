@@ -105,7 +105,7 @@ namespace ListasTipoCola1
             listaAlumnos.Add("Edgar");
             listaAlumnos.Add(profe);
 
-            Console.WriteLine(listaAlumnos[1]);     //Para imprimir la ubicacion misma de la lista
+           // Console.WriteLine(listaAlumnos[1]);     //Para imprimir la ubicacion misma de la lista
 
             foreach (string alumno in listaAlumnos)     //foreach significa para cada elemento
             {
