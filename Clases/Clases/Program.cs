@@ -81,14 +81,44 @@ namespace ListasTipoCola1
 
         static void Main(string[] args)
         {
-            Cola cola1 = new Cola();
-            cola1.Insertar(5);
-            cola1.Insertar(10);
-            cola1.Insertar(50);
-            cola1.Imprimir();
-            Console.WriteLine("Extraemos uno de la cola:" + cola1.Extraer());
-            cola1.Imprimir();
-            Console.ReadKey();
+            /* Cola cola1 = new Cola();
+             cola1.Insertar(5);
+             cola1.Insertar(10);
+             cola1.Insertar(50);
+             cola1.Imprimir();
+             Console.WriteLine("Extraemos uno de la cola:" + cola1.Extraer());
+             cola1.Imprimir();
+             Console.ReadKey();*/
+
+            ImprimirLista();
+
+        }
+
+        static void ImprimirLista()
+        {
+            string profe = "Andrea";
+
+            List<string> listaAlumnos = new List<string>();
+
+            listaAlumnos.Add("Augusto");
+            listaAlumnos.Add("Meli");
+            listaAlumnos.Add("Edgar");
+            listaAlumnos.Add(profe);
+
+            Console.WriteLine(listaAlumnos[1]);     //Para imprimir la ubicacion misma de la lista
+
+            foreach (string alumno in listaAlumnos)     //foreach significa para cada elemento
+            {
+                Console.WriteLine(alumno);
+            }
+
+            int contador = 0;
+            foreach (string alumno in listaAlumnos)
+            {
+                Console.WriteLine("Elemento #{" + contador + "}-->" + alumno);
+                contador++;
+            }
         }
     }
+
 }
