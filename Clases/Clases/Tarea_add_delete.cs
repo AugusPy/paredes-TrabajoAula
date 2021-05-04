@@ -9,7 +9,7 @@ namespace Clases
 {
     class Tarea_add_delete
     {
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
             List<string> lista = new List<string>();
 
@@ -63,6 +63,6 @@ namespace Clases
             Console.WriteLine("Capacidad: {0}", lista.Capacity);
             Console.WriteLine("Contenido: {0}", lista.Count);
 
-        }
+        }*/
     }
 }

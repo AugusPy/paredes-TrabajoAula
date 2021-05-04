@@ -10,7 +10,7 @@ namespace Clases
     public class Listas
     {
         
-        static void ImprimirLista()
+        public void ImprimirLista()
         {
             string profe = "Andrea";
 
