@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Clases;
-using Ejerc1;
-using static Clases.Ejercicio2;
+
+
 
 namespace ListasTipoCola1
 {

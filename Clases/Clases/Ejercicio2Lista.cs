@@ -8,7 +8,7 @@ namespace Clases
 {
     class Ejercicio2
     {
-        
+        //
 
     }
 }
